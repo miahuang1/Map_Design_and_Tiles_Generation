@@ -2,6 +2,8 @@
 Wenjing Huang \
 GEOG 458, Lab 4 Map Design and Tiles_ Generation
 
+[URL to access the wen map](https://miahuang1.github.io/Map_Design_and_Tiles_Generation/)
+
 ## Tile Set Layers
 ### Tiles 1: Basemap
 ![Basemap](img/basemap.png)
