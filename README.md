@@ -31,5 +31,5 @@ GEOG 458, Lab 4 Map Design and Tiles_ Generation
 
 ## Data Source
 [Swimming Beaches Data](https://data-seattlecitygis.opendata.arcgis.com/datasets/SeattleCityGIS::swimming-beaches/about)
-[Forest Theme](https://corporate.walmart.com/content/corporate/en_us/purpose/sustainability/planet/nature/jcr:content/par/image_2_0.img.png/1693432526985.png)
+[Forest Theme](https://corporate.walmart.com/purpose/sustainability/planet/nature)
 
