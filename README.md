@@ -30,6 +30,7 @@ GEOG 458, Lab 4 Map Design and Tiles_ Generation
 - Decription of tile set: Map layer build from Mapbox, and using the color scheme (green) to respent the theme of forest.
 
 ## Data Source
-[Swimming Beaches Data](https://data-seattlecitygis.opendata.arcgis.com/datasets/SeattleCityGIS::swimming-beaches/about)
+[Swimming Beaches Data](https://data-seattlecitygis.opendata.arcgis.com/datasets/SeattleCityGIS::swimming-beaches/about) 
+
 [Forest Theme](https://corporate.walmart.com/purpose/sustainability/planet/nature)
 
