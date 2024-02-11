@@ -21,7 +21,7 @@
           border-style: solid;
           border-width: 1px;
           border-color: rgba(0, 0, 0, 0.2);
-          margin-left: 20px;
+          margin-left: 100px;
           font-family: Arial, sans-serif;
           overflow: auto;
           border-radius: 3px;
@@ -96,7 +96,7 @@
     <div class='map-overlay' id='features'>
         <h3>Map Design and Tiles Generation</h3>
         <div id='text-description'>
-            <small>Toggle between map layers to view swimming beach data and forest maps!</small>
+            <medium>Toggle between map layers to view swimming beach data and forest maps!<medium>
         </div>
     </div>
     <script type="text/javascript">
@@ -183,6 +183,14 @@
                 },
                 'source': 'forest'
             });
+
+            // Add zoom and rotation controls to the map.
+            const nav = new mapboxgl.NavigationControl();
+            map.addControl(nav, 'top-left');
+
+            // Toggle Fullscreen for the map
+            const fullscreen = new mapboxgl.FullscreenControl();
+            map.addControl(fullscreen, 'top-left')
 
         });
 
